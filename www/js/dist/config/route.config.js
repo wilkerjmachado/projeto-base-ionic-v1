@@ -43,7 +43,7 @@
       })
 
 
-    $urlRouterProvider.otherwise('/pag1');
+    $urlRouterProvider.otherwise('/app/pag1');
 
   }
 })();
